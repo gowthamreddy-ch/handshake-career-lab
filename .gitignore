@@ -1,0 +1,13 @@
+**/node_modules/
+**/dist/
+**/.test-build/
+**/.runtime/
+**/.logs/
+**/bin/
+**/obj/
+.local/
+.env*
+**/.env*
+*.sqlite*
+*.log
+local-runtime.json

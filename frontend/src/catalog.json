@@ -1,0 +1,326 @@
+[
+  {
+    "id": 1,
+    "title": "Software Engineering Intern",
+    "company": "Canopy Systems",
+    "companyInitials": "CS",
+    "location": "Austin, TX",
+    "workMode": "Hybrid",
+    "department": "Engineering",
+    "employmentType": "Internship",
+    "salaryMin": 28,
+    "salaryMax": 36,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Canopy Systems team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped engineering project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with C#, .NET; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "C#",
+      ".NET",
+      "SQL"
+    ],
+    "postedAt": "2026-10-08T00:00:00Z",
+    "closesAt": "2026-11-09T00:00:00Z"
+  },
+  {
+    "id": 2,
+    "title": "Product Analytics Intern",
+    "company": "Lumen Data",
+    "companyInitials": "LD",
+    "location": "United States",
+    "workMode": "Remote",
+    "department": "Data",
+    "employmentType": "Internship",
+    "salaryMin": 26,
+    "salaryMax": 32,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Lumen Data team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped data project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with SQL, Python; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "SQL",
+      "Python",
+      "Analytics"
+    ],
+    "postedAt": "2026-10-07T00:00:00Z",
+    "closesAt": "2026-11-10T00:00:00Z"
+  },
+  {
+    "id": 3,
+    "title": "UX Research Intern",
+    "company": "Fieldnote Studio",
+    "companyInitials": "FS",
+    "location": "Boston, MA",
+    "workMode": "Hybrid",
+    "department": "Design",
+    "employmentType": "Internship",
+    "salaryMin": 24,
+    "salaryMax": 30,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Fieldnote Studio team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped design project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with Research, Prototyping; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "Research",
+      "Prototyping",
+      "Figma"
+    ],
+    "postedAt": "2026-10-06T00:00:00Z",
+    "closesAt": "2026-11-11T00:00:00Z"
+  },
+  {
+    "id": 4,
+    "title": "Backend Engineering Intern",
+    "company": "Northstar Labs",
+    "companyInitials": "NL",
+    "location": "Seattle, WA",
+    "workMode": "On-site",
+    "department": "Engineering",
+    "employmentType": "Internship",
+    "salaryMin": 30,
+    "salaryMax": 38,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Northstar Labs team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped engineering project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with TypeScript, APIs; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "TypeScript",
+      "APIs",
+      "PostgreSQL"
+    ],
+    "postedAt": "2026-10-05T00:00:00Z",
+    "closesAt": "2026-11-12T00:00:00Z"
+  },
+  {
+    "id": 5,
+    "title": "Business Operations Intern",
+    "company": "Juniper Works",
+    "companyInitials": "JW",
+    "location": "United States",
+    "workMode": "Remote",
+    "department": "Operations",
+    "employmentType": "Internship",
+    "salaryMin": 22,
+    "salaryMax": 28,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Juniper Works team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped operations project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with Excel, Process mapping; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "Excel",
+      "Process mapping",
+      "Communication"
+    ],
+    "postedAt": "2026-10-04T00:00:00Z",
+    "closesAt": "2026-11-13T00:00:00Z"
+  },
+  {
+    "id": 6,
+    "title": "Data Engineering Intern",
+    "company": "Tidal Analytics",
+    "companyInitials": "TA",
+    "location": "Chicago, IL",
+    "workMode": "Hybrid",
+    "department": "Data",
+    "employmentType": "Internship",
+    "salaryMin": 29,
+    "salaryMax": 35,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Tidal Analytics team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped data project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with Python, SQL; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "Python",
+      "SQL",
+      "Data pipelines"
+    ],
+    "postedAt": "2026-10-03T00:00:00Z",
+    "closesAt": "2026-11-14T00:00:00Z"
+  },
+  {
+    "id": 7,
+    "title": "Frontend Engineering Intern",
+    "company": "Paperkite",
+    "companyInitials": "PK",
+    "location": "New York, NY",
+    "workMode": "Hybrid",
+    "department": "Engineering",
+    "employmentType": "Internship",
+    "salaryMin": 27,
+    "salaryMax": 34,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Paperkite team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped engineering project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with React, TypeScript; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "React",
+      "TypeScript",
+      "Accessibility"
+    ],
+    "postedAt": "2026-10-02T00:00:00Z",
+    "closesAt": "2026-11-15T00:00:00Z"
+  },
+  {
+    "id": 8,
+    "title": "Product Design Intern",
+    "company": "Morrow Digital",
+    "companyInitials": "MD",
+    "location": "United States",
+    "workMode": "Remote",
+    "department": "Design",
+    "employmentType": "Internship",
+    "salaryMin": 25,
+    "salaryMax": 31,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Morrow Digital team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped design project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with Figma, Interaction design; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "Figma",
+      "Interaction design",
+      "Design systems"
+    ],
+    "postedAt": "2026-10-01T00:00:00Z",
+    "closesAt": "2026-11-16T00:00:00Z"
+  },
+  {
+    "id": 9,
+    "title": "Quality Engineering Intern",
+    "company": "Harbor Software",
+    "companyInitials": "HS",
+    "location": "Dallas, TX",
+    "workMode": "On-site",
+    "department": "Engineering",
+    "employmentType": "Internship",
+    "salaryMin": 25,
+    "salaryMax": 32,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Harbor Software team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped engineering project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with Testing, C#; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "Testing",
+      "C#",
+      "Automation"
+    ],
+    "postedAt": "2026-09-30T00:00:00Z",
+    "closesAt": "2026-11-17T00:00:00Z"
+  },
+  {
+    "id": 10,
+    "title": "Customer Insights Intern",
+    "company": "Cedar Research",
+    "companyInitials": "CR",
+    "location": "Denver, CO",
+    "workMode": "Hybrid",
+    "department": "Data",
+    "employmentType": "Internship",
+    "salaryMin": 23,
+    "salaryMax": 29,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Cedar Research team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped data project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with Statistics, SQL; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "Statistics",
+      "SQL",
+      "Storytelling"
+    ],
+    "postedAt": "2026-09-29T00:00:00Z",
+    "closesAt": "2026-11-18T00:00:00Z"
+  },
+  {
+    "id": 11,
+    "title": "Technical Operations Intern",
+    "company": "Acorn Cloud",
+    "companyInitials": "AC",
+    "location": "United States",
+    "workMode": "Remote",
+    "department": "Operations",
+    "employmentType": "Internship",
+    "salaryMin": 24,
+    "salaryMax": 30,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Acorn Cloud team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped operations project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with Linux, Documentation; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "Linux",
+      "Documentation",
+      "Monitoring"
+    ],
+    "postedAt": "2026-09-28T00:00:00Z",
+    "closesAt": "2026-11-19T00:00:00Z"
+  },
+  {
+    "id": 12,
+    "title": "Mobile Engineering Intern",
+    "company": "Daybreak Apps",
+    "companyInitials": "DA",
+    "location": "San Diego, CA",
+    "workMode": "On-site",
+    "department": "Engineering",
+    "employmentType": "Internship",
+    "salaryMin": 28,
+    "salaryMax": 35,
+    "currency": "USD",
+    "salaryPeriod": "hour",
+    "description": "Join the fictional Daybreak Apps team for a paid, 12-week learning-focused internship. Work with a mentor on a scoped engineering project, share your progress in weekly reviews, and document the decisions behind your work. This role is synthetic and does not accept real employment applications.",
+    "requirements": [
+      "Currently studying or recently completed a related degree or equivalent learning program.",
+      "Some hands-on practice with React Native, TypeScript; coursework and personal projects count.",
+      "Able to explain your work, ask questions, and collaborate with a mentor."
+    ],
+    "skills": [
+      "React Native",
+      "TypeScript",
+      "Testing"
+    ],
+    "postedAt": "2026-09-27T00:00:00Z",
+    "closesAt": "2026-11-20T00:00:00Z"
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "target": "ES2022", "module": "NodeNext", "moduleResolution": "NodeNext",
+    "strict": true, "skipLibCheck": true, "outDir": ".test-build", "rootDir": ".", "types": ["node", "vite/client"], "resolveJsonModule": true
+  },
+  "include": ["src/domain.ts", "src/types.ts", "src/api.ts", "src/mode.ts", "src/demo.ts", "src/catalog.json", "tests"]
+}
